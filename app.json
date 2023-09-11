@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "native_jobs",
+    "name": "nativejobs",
     "slug": "native_jobs",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -32,6 +32,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "53bb67c2-2c99-4bc3-84e5-4e797879f2f5"
+      }
     }
   }
 }
