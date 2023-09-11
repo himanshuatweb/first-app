@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "nativejobs",
-    "slug": "native_jobs",
+    "slug": "nativejobs",
     "version": "1.0.0",
     "orientation": "portrait",
     "scheme": "myapp",
